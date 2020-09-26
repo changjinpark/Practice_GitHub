@@ -2,7 +2,11 @@
 #### 깃허브 사용법을 연습합니다.
 
 #### - 원격 저장소 만들기
-#### - origin 연결하기
-#### - git push
-#### - git pull vs git fetch(git merge)
-#### - git branch, git checkout [branch_name]
+  - origin 연결하기
+  - git push
+#### - pull vs fetch
+  - git pull
+  - git fetch(
+#### - 로컬 저장소에서 브랜치 생성하기
+  - git checkout [branch_name]
+  - git branch
