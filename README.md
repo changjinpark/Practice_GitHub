@@ -11,4 +11,4 @@
   - git checkout [branch_name]
   - git branch
 
-![아기 고양이](./images/cat-323262_1920.jpg)
+![아기 고양이](./cat-323262_1920.jpg)
