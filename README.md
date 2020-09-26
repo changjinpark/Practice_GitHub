@@ -10,3 +10,5 @@
 #### - 로컬 저장소에서 브랜치 생성하기
   - git checkout [branch_name]
   - git branch
+
+![아기 고양이](./images/cat-323262_1920.jpg)
