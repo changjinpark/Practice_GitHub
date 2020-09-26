@@ -3,4 +3,4 @@
 
 push, pull, commit, fetch, merge 연습을 해봅니다.
 
-브랜치 생성 연습을 해봅니다.
+브랜치 생성 연습을 해봅니다. 
